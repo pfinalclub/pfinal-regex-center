@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="" tests="17" assertions="155" errors="0" warnings="0" failures="0" skipped="0" time="0.045393">
+    <testsuite name="Unit" tests="17" assertions="155" errors="0" warnings="0" failures="0" skipped="0" time="0.045393">
+      <testsuite name="pfinalclub\RegexCenter\Tests\PatternCollectionTest" file="/var/www/html/pfinal-regex-center/tests/PatternCollectionTest.php" tests="3" assertions="101" errors="0" warnings="0" failures="0" skipped="0" time="0.026732">
+        <testcase name="testPatternValidity" class="pfinalclub\RegexCenter\Tests\PatternCollectionTest" classname="pfinalclub.RegexCenter.Tests.PatternCollectionTest" file="/var/www/html/pfinal-regex-center/tests/PatternCollectionTest.php" line="87" assertions="56" time="0.022993"/>
+        <testcase name="testGetBuiltInPatterns" class="pfinalclub\RegexCenter\Tests\PatternCollectionTest" classname="pfinalclub.RegexCenter.Tests.PatternCollectionTest" file="/var/www/html/pfinal-regex-center/tests/PatternCollectionTest.php" line="19" assertions="26" time="0.003499"/>
+        <testcase name="testAllTypesHaveDefaults" class="pfinalclub\RegexCenter\Tests\PatternCollectionTest" classname="pfinalclub.RegexCenter.Tests.PatternCollectionTest" file="/var/www/html/pfinal-regex-center/tests/PatternCollectionTest.php" line="71" assertions="19" time="0.000240"/>
+      </testsuite>
+      <testsuite name="pfinalclub\RegexCenter\Tests\RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" tests="14" assertions="54" errors="0" warnings="0" failures="0" skipped="0" time="0.018661">
+        <testcase name="testReplaceAllWithCallback" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="241" assertions="1" time="0.004806"/>
+        <testcase name="testNewPatternTypes" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="258" assertions="22" time="0.001124"/>
+        <testcase name="testGetInstance" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="34" assertions="2" time="0.002561"/>
+        <testcase name="testGet" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="48" assertions="7" time="0.004826"/>
+        <testcase name="testTest" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="75" assertions="4" time="0.000070"/>
+        <testcase name="testUse" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="99" assertions="1" time="0.000049"/>
+        <testcase name="testInject" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="116" assertions="1" time="0.000042"/>
+        <testcase name="testExtractAll" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="133" assertions="3" time="0.004225"/>
+        <testcase name="testReplaceAll" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="148" assertions="1" time="0.000114"/>
+        <testcase name="testHighlight" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="161" assertions="1" time="0.000039"/>
+        <testcase name="testEdgeCases" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="174" assertions="6" time="0.000161"/>
+        <testcase name="testCount" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="195" assertions="2" time="0.000085"/>
+        <testcase name="testAdd" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="211" assertions="2" time="0.000415"/>
+        <testcase name="testConfig" class="pfinalclub\RegexCenter\Tests\RegexManagerTest" classname="pfinalclub.RegexCenter.Tests.RegexManagerTest" file="/var/www/html/pfinal-regex-center/tests/RegexManagerTest.php" line="227" assertions="1" time="0.000143"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
